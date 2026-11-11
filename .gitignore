@@ -1,2 +1,21 @@
 node_modules
 dist
+
+# logs
+*.log
+npm-debug.log*
+
+# test coverage (if you ever run vitest --coverage)
+coverage
+
+# local env / Vite local overrides
+.env
+.env.local
+*.local
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea
+.vscode/*
+!.vscode/extensions.json
