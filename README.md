@@ -12,6 +12,8 @@ Maproid is a web-based tool for creating maps for metroidvania games.
 
 ## Using it
 
+Use Maproid online for free here: [https://phybros.github.io/maproid/](https://phybros.github.io/maproid/). Latest commits to main get deployed here automatically.
+
 Open `dist/index.html` in a browser, or upload that one file to any static host.
 
 - **Draw rooms (R)**: paint cells. A cell next to the active room joins it. A cell anywhere else starts a new room. Press **N** (or "New room") to make the next stroke start a new room even next to an existing one. Shift-drag fills a rectangle. Start a stroke inside a room to keep extending it.
